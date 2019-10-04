@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl"><name>New Data Adapter 1</name><driver>com.mysql.jdbc.Driver</driver><username>ptzadmin</username><password>ptz11990</password><savePassword>true</savePassword><url>jdbc:mysql://db4free.net:3306/facelectronica</url><database></database><serverAddress></serverAddress><classpath>D:\Users\Diego\eclipse-workspace\FacturaElectronica\Librera\mysql-connector-java-8.0.13\mysql-connector-java-8.0.13.jar</classpath></jdbcDataAdapter>
